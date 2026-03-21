@@ -5,19 +5,21 @@
 
 ---
 
-We build **Continuum Engine** — a durable, observable, context-aware inference platform.
+Hello traveler!
 
-The context window gets smarter the more it's used.
+We are building the **Continuum Engine** - a durable, observable, context-aware inference platform.
+
+A system where context window gets smarter the more it's used.
 
 ## The problem
 
-Every new chat, task, or tool switch forces you to re-explain context. Longer context windows don't solve it — they just give the model more hay to search for the needle. The right tokens at the right time do.
+Every new chat, task, or tool switch forces you to re-explain context. Longer context windows don't solve it - they just give the model more hay to search for the needle. The right tokens at the right time do. This is critical for long running sessions too!
 
 ## The approach
 
 Three-tier context infrastructure grounded in cognitive science.
 
-Anderson's **ACT-R** spreading activation — one of the most validated models of human memory — applied to AI context assembly. Memories aren't retrieved by brute-force search. They're activated by association, weighted by use, and decay when they stop being relevant.
+Anderson's **ACT-R** spreading activation - one of the most validated models of human memory - applied to AI context assembly. Memories aren't retrieved by brute-force search. They're activated by association, weighted by use, and decay when they stop being relevant.
 
 Continuum Engine does the same thing with tokens.
 
@@ -58,13 +60,13 @@ Glass box, not black box. Carpentry over hype.
 
 Everything is built in public at **[threadunsafe.dev](https://threadunsafe.dev)**.
 
-**Stack** — .NET / C# · Temporal (workflow orchestration) · OpenTelemetry (observability from day one)
+**Stack** - .NET / C# · Temporal (workflow orchestration) · OpenTelemetry (observability from day one)
 
 ## Repos
 
 | Repo | What it is |
 |------|------------|
-| **[continuum-engine](https://github.com/screaming-in-space/continuum-engine)** | The engine itself — context assembly, memory tiers, inference orchestration |
+| **[continuum-engine](https://github.com/screaming-in-space/continuum-engine)** | The engine itself - context assembly, memory tiers, inference orchestration |
 | **[thread-unsafe](https://github.com/screaming-in-space/thread-unsafe)** | Public site and engineering brand |
 
 ---
