@@ -1,4 +1,4 @@
-# screaming-in-space
+# Screaming-in-Space
 
 > Set out to build an AI that could run a factory on LV-426. Ended up building the context engine it needed to think.
 
