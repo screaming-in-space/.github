@@ -1,6 +1,6 @@
 # Screaming-in-Space
 
-> Set out to build a long running AI agentic system that could be used in a game engine in order to run a factory on LV-426.
+> Set out to build a long running AI agentic system that could be used in a game engine in order to run a factory on LV-426.  
 > Ended up building the context engine it needed to think.
 
 ---
