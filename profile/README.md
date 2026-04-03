@@ -1,6 +1,6 @@
 # Screaming-in-Space
 
-> Set out to build a long running AI agentic system that could be used in a game engine in order to run a factory on LV-426.  
+> Set out to build a long running AI agentic system that could be used in a game engine in order to run a factory on LV-426.
 > Ended up building the context engine it needed to think.
 
 ---
@@ -67,6 +67,8 @@ Everything is built in public at **[threadunsafe.dev](https://threadunsafe.dev)*
 | Repo | What it is |
 |------|------------|
 | **[continuum-engine](https://github.com/screaming-in-space/continuum-engine)** | The engine itself - context assembly, memory tiers, inference orchestration |
+| **[mu-th-ur-6000](https://github.com/screaming-in-space/mu-th-ur-6000)** | Durable AI agent - Temporal workflows, M.E.AI, pgvector, SignalR relay, .NET Aspire |
+| **[agent-tools](https://github.com/screaming-in-space/agent-tools)** | Shared Claude Code skills for bootstrapping AI-assisted repos |
 | **[thread-unsafe](https://github.com/screaming-in-space/thread-unsafe)** | Public site and engineering brand |
 
 ---
